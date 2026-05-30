@@ -1,11 +1,20 @@
 # FILE-HANDLING-UTILITY
+
 COMPONY: CODETECH IT SOLUTIONS
+
 NAME: PARTH NAMDEV GOGAWALE
+
 INTERN ID: CTIS9713
+
 DOMAIN: JAVA PROGRAMMING
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTOSH
-DESCRIPTION: Description of the Java File Handling Utility
+
+DESCRIPTION:
+
+Description of the Java File Handling Utility
 The provided Java code defines a program titled filehandlingutility, which serves as a robust, menu-driven command-line application designed to perform fundamental file operations. By utilizing the java.io package for file manipulation and the java.util.Scanner class for user interaction, the program demonstrates the core principles of Input/Output (I/O) streams in Java.
 Program Structure and Flow
 The utility is structured around a do-while loop within the main method, ensuring that the application remains active until the user explicitly chooses to exit (Option 7). Inside this loop, a menu is displayed, and the user’s choice is processed through a switch statement. This modular design delegating tasks to specific static methods makes the code organized, readable, and easy to maintain.
@@ -21,3 +30,5 @@ A significant strength of this code is its implementation of Exception Handling.
 Conclusion
 Overall, this filehandlingutility is an excellent example of a CRUD (Create, Read, Update, Delete) application for the file system. It highlights the versatility of Java’s I/O classes and provides a practical template for developers looking to understand how to bridge the gap between user input and persistent storage on a hard drive.
 
+OUTPUT: 
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/db07b1cb-86e5-4c64-9cd9-ba8913edc04b" />
